@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Callup4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_me">click me</string>
+    <string name="hi_there">hi there !</string>
+</resources>
